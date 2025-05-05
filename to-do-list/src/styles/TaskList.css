@@ -1,0 +1,9 @@
+.task-list {
+    max-height: 60vh;
+    overflow-y: auto;
+  }
+  
+  .task-card {
+    background-color: #ccfbf1;
+  }
+  
